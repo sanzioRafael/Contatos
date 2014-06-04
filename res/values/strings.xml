@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="app_name">Contatos</string>
+    <string name="add_contato">Adicionar Contato</string>
+    <string name="contato">Contato</string>
+    
+    <string name="menu_add">Adicionar</string>
+    <string name="menu_delete">Deletar</string>
+    <string name="menu_info_details">Deltalhes</string>
+    <string name="menu_more">Mais</string>
+    <string name="menu_refresh">Atualizar</string>
+    <string name="menu_search">Pesquisar</string>
+    <string name="menu_call">Ligar</string>
+    <string name="menu_meeting">Compromisso</string>
+	
+    <string name="editar">Editar</string>
+    <string name="salvar">Salvar</string>
+    <string name="nome">Nome:</string>
+    <string name="numero">Número:</string>
+    <string name="tipo">Tipo:</string>
+    
+    <string-array name="tipos">
+    	<item>Celular</item>
+    	<item>Tabblet</item>
+    	<item>Telefone Fixo</item>
+    	<item>Fax</item>
+    </string-array>
+    
+    <string name="desen">Bruno Lino, Joaquim Albuqueruqe e Rafael Sanzio</string>
+    <string name="pesquisa">Pesquisar</string>
+    
+</resources>
